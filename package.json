@@ -12,10 +12,6 @@
       "apps/*"
     ]
   },
-  "engines": {
-    "node": "^14.13.1 || >=16.0.0",
-    "yarn": ">=1.22.0",
-    "npm": "please-use-yarn"
-  },
+  "engines": {},
   "packageManager": "yarn@3.5.0"
 }
